@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16524" started-at="2021-06-16T07:11:18Z" finished-at="2021-06-16T07:11:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16524" started-at="2021-06-16T07:11:18Z" finished-at="2021-06-16T07:11:34Z">
+      <class name="Selenium.Project2.Leafground_MultiWindow">
+        <test-method status="PASS" signature="win1()[pri:0, instance:Selenium.Project2.Leafground_MultiWindow@6193932a]" name="win1" duration-ms="16445" started-at="2021-06-16T07:11:18Z" finished-at="2021-06-16T07:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- win1 -->
+      </class> <!-- Selenium.Project2.Leafground_MultiWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
